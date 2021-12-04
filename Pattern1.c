@@ -13,3 +13,11 @@
 }
   return 0;
 }
+
+/*
+Commands(CMD Prompt):
+
+To compile : gcc filename.c -o filename
+To run/execute : filename
+
+*/
